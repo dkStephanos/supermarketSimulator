@@ -1,0 +1,38 @@
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe.config
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.pdb
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.MainMenu.resources
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.Properties.Resources.resources
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.SupermarketGUI.resources
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.csproj.GenerateResource.Cache
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.exe
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.pdb
+Z:\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.csprojResolveAssemblyReference.cache
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe.config
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.pdb
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.MainMenu.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.Properties.Resources.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.SupermarketGUI.resources
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.csproj.GenerateResource.Cache
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.exe
+\\etsulab1\users\STEPHANOS\My Documents\Visual Studio 2013\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.pdb
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe.config
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.exe
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.pdb
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.pdb
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.MainMenu.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.Properties.Resources.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.SupermarketGUI.resources
+C:\Users\Dembe\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.csproj.GenerateResource.Cache
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe.config
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.exe
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.pdb
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.exe
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\bin\Debug\SupermarketSimulator.pdb
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.csprojResolveAssemblyReference.cache
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.MainMenu.resources
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.Properties.Resources.resources
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.SupermarketGUI.resources
+F:\Koi circa 2015\Documents\Data Files from Spring 2015 Semester\Data Structures\Projects\SupermarketSimulator\SupermarketSimulator\obj\Debug\SupermarketSimulator.csproj.GenerateResource.Cache
